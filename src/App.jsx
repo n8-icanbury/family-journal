@@ -707,7 +707,7 @@ function SetupScreen({ onDone }) {
             margin: "0 auto",
           }}
         >
-          A safe space to capture thoughts and feelings together.
+          A smooth sea never made a skilled sailor, -- an African proverb made famous by U.S. President Franklin D. Roosevelt.
         </div>
       </div>
       <div style={{ height: 24 }} />
